@@ -78,7 +78,3 @@ Options
 }
 ```
 
-DISCLAIMER
-----------
-
-The author is not in any way related to the Livedocx service or the company behind that service.
